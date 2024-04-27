@@ -2,3 +2,5 @@
 
 Da Plataforma Curso em Vídeo - com Gustavo Guanabara
 O repositório foi criado durante uma aula
+Linha adicionada diretamente no GitHub
+
