@@ -1,2 +1,4 @@
 # Curso de Git com GitHub
- da Plataforma Curso em Vídeo - com Gustavo Guanabara
+
+Da Plataforma Curso em Vídeo - com Gustavo Guanabara
+O repositório foi criado durante uma aula
